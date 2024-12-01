@@ -5,7 +5,7 @@
   }
   
   #cut {
-    border-radius: 60%; /* Cắt hình ảnh thành hình tròn */
+    border-radius: 0%; /* Cắt hình ảnh thành hình tròn */
   }
   
   :root {
